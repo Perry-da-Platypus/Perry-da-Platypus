@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Perry!
 - 👀 I’m interested in programming Minecraft stuff but video games too.
 - 🌱 I’m currently learning java.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
       - Discord: Perry#7572
       - Twitter: @

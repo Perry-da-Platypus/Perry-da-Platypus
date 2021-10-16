@@ -1,7 +1,11 @@
 👋 Hi, I’m Perry!
+
 👀 I’m interested in programming.
+
 🌱 I’m currently learning Java and JavaScript.
+
 📫 Discord: Perry#7572
+
 📫 Twitter: @Perrys_TW
 
 <!---
